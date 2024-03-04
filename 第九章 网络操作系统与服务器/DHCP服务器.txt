@@ -36,8 +36,8 @@
 |                                 Giaddr                                 |
 |                                 Chaddr                                |
 |                                Sname                                  |
-|                                 File                                       |
-|                              Option（variable）               |
+|                                 File                                  |
+|                              Option（variable）                       |
 
 Option   43 应用案例
 1、在WLAN三层组网中，当AP上线时，需要获取AC的IP地址，并与AC之间建立CAPWAP隧道
@@ -72,4 +72,3 @@ DHCP常规配置，为AP分配IP地址
 题目
 用户可以使用ipconfig/renew
 源MAC地址不变源IP地址为0.0.0.0
-
